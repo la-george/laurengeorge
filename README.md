@@ -1,4 +1,4 @@
-# website-template
+# laurengeorge Website
 
 [Video tutorial](https://youtu.be/YN75YXaLFGM)
 

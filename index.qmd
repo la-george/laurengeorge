@@ -3,17 +3,14 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/NewProfile.jpg
+  
 ---
-
+  
 :::{#me}
 
-## Goals
-
-## Education
-
-## Experience
+I'm Lauren, a first year MS Student in Marine Biology at UNH. I'm currently investigating the effects of early exposure to high temperature on Zebrafish (Danio rerio) with the intended effect of inducing phenotypic plasticity to improve factors including growth and survivability. I hope to apply the results of my preliminary study to a feed fish species in an offshore aquaculture system.
 
 :::
 
-Thanks for checking out my web site!
+Photo: Me after surviving a grueling climb up the Sleeping Bear Dunes in Michigan
